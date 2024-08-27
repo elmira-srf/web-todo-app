@@ -1,0 +1,7 @@
+play
+sing
+dance
+eat
+sleep
+swim
+study
